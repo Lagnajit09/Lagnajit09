@@ -97,12 +97,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://j.gifs.com/YE6OJA.gif"  />
-</div>
-
-###
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Lagnajit09.Lagnajit09&"  />
 
 ###
