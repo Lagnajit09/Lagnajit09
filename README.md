@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Lagnajit from India<br><br>- 🔭 I’m  studying Information Technology and Management.<br>- 📚 I'm currently learning Web development and Cloud engineering.<br>- ⚡ In my free time I do freelancing in animation and designing.</p>
+<p align="left">I'm Lagnajit from India<br><br>- 🔭 studying Information Technology and Management.<br>- 📚 currently learning Web development and Cloud engineering.<br>- ⚡ In my free time I do freelancing in animation and designing.</p>
 
 ###
 
